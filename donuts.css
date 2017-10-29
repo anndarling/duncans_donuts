@@ -1,0 +1,12 @@
+body {
+  font:14px arial;
+  text-align:center;
+}
+
+#frame {
+  margin-top:15px;
+  width:440px;
+}
+
+#left {
+  float:left;
